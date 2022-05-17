@@ -22,4 +22,5 @@ This application does not collect any user information.
 3. [pytube](https://github.com/pytube/pytube) The Unlicense
 4. [ffmpeg-android-java](https://github.com/WritingMinds/ffmpeg-android-java) GPLv3.0
 
-
+## Issues
+Please feel free to open an issue if you want some new features, find a bug,...
